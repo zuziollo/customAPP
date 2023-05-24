@@ -1,0 +1,14 @@
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\bin\Debug\AplikacjaPogodowa1.exe.config
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\bin\Debug\AplikacjaPogodowa1.exe
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\bin\Debug\AplikacjaPogodowa1.pdb
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.csproj.AssemblyReference.cache
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.Properties.Resources.resources
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.csproj.GenerateResource.cache
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.csproj.CoreCompileInputs.cache
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.csproj.CopyComplete
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.exe
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.pdb
+C:\Users\Zuzia\source\repos\AplikacjaPogodowa1\AplikacjaPogodowa1\obj\Debug\AplikacjaPogodowa1.FormMain.resources
